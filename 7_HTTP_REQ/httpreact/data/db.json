@@ -1,19 +1,74 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Camisa",
-        "price": 59.9
-      },
-      {
-        "id": 2,
-        "name": "Calça vermelha",
-        "price": 90
-      },
-      {
-        "id": 3,
-        "name": "Boné aba reta",
-        "price": 29.9
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "capa de chuva",
+      "price": "50.50",
+      "id": 5
+    },
+    {
+      "name": "camiseta",
+      "price": "16.90",
+      "id": 6
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 7
+    },
+    {
+      "name": "mouse",
+      "price": "29",
+      "id": 8
+    },
+    {
+      "name": "monitor",
+      "price": "569",
+      "id": 9
+    },
+    {
+      "name": "cadeira",
+      "price": "341",
+      "id": 10
+    },
+    {
+      "name": "suporte monitor",
+      "price": "123",
+      "id": 11
+    },
+    {
+      "name": "webcam",
+      "price": "120",
+      "id": 12
+    },
+    {
+      "name": "microfone",
+      "price": "12",
+      "id": 13
+    },
+    {
+      "name": "gabinete",
+      "price": "400",
+      "id": 14
+    },
+    {
+      "name": "camera ip",
+      "price": "31",
+      "id": 16
+    }
+  ]
+}
